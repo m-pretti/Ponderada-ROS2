@@ -78,7 +78,7 @@ ros2 run turtle_draw_project turtle_drawer
 A tartaruga começará a teleportar sequencialmente, traçando o contorno do cachorro em tempo real sem deixar riscos internos na tela!
 
 
-## 🧠 Arquitetura e Decisões Técnicas
+## Arquitetura e Decisões Técnicas
 
 * **Processamento de Imagem:** Utilizou-se operações morfológicas manuais baseadas em NumPy para contornar limitações de detecção de bordas cruas. O preenchimento da silhueta garantiu que apenas os pixels mais externos fossem computados.
   
