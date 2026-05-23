@@ -1,0 +1,24 @@
+[0.754s] Invoking command in '/home/inteli/pond-prog/src/turtle_draw_project': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/inteli/pond-prog/build/turtle_draw_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_draw_project build --build-base /home/inteli/pond-prog/build/turtle_draw_project/build install --record /home/inteli/pond-prog/build/turtle_draw_project/install.log --single-version-externally-managed install_data
+[1.011s] running egg_info
+[1.031s] writing ../../build/turtle_draw_project/turtle_draw_project.egg-info/PKG-INFO
+[1.031s] writing dependency_links to ../../build/turtle_draw_project/turtle_draw_project.egg-info/dependency_links.txt
+[1.031s] writing entry points to ../../build/turtle_draw_project/turtle_draw_project.egg-info/entry_points.txt
+[1.031s] writing requirements to ../../build/turtle_draw_project/turtle_draw_project.egg-info/requires.txt
+[1.031s] writing top-level names to ../../build/turtle_draw_project/turtle_draw_project.egg-info/top_level.txt
+[1.071s] reading manifest file '../../build/turtle_draw_project/turtle_draw_project.egg-info/SOURCES.txt'
+[1.071s] writing manifest file '../../build/turtle_draw_project/turtle_draw_project.egg-info/SOURCES.txt'
+[1.071s] running build
+[1.072s] running build_py
+[1.072s] copying turtle_draw_project/turtle_drawer.py -> /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project
+[1.072s] running install
+[1.077s] running install_lib
+[1.097s] copying /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project/turtle_drawer.py -> /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project
+[1.098s] byte-compiling /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project/turtle_drawer.py to turtle_drawer.cpython-312.pyc
+[1.098s] running install_data
+[1.098s] running install_egg_info
+[1.120s] removing '/home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project-0.0.0-py3.12.egg-info' (and everything under it)
+[1.120s] Copying ../../build/turtle_draw_project/turtle_draw_project.egg-info to /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project-0.0.0-py3.12.egg-info
+[1.121s] running install_scripts
+[1.245s] Installing turtle_drawer script to /home/inteli/pond-prog/install/turtle_draw_project/lib/turtle_draw_project
+[1.245s] writing list of installed files to '/home/inteli/pond-prog/build/turtle_draw_project/install.log'
+[1.270s] Invoked command in '/home/inteli/pond-prog/src/turtle_draw_project' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/inteli/pond-prog/build/turtle_draw_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_draw_project build --build-base /home/inteli/pond-prog/build/turtle_draw_project/build install --record /home/inteli/pond-prog/build/turtle_draw_project/install.log --single-version-externally-managed install_data

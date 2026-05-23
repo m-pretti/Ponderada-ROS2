@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtle_draw_project/turtle_draw_project.egg-info
+writing ../../build/turtle_draw_project/turtle_draw_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_draw_project/turtle_draw_project.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_draw_project/turtle_draw_project.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_draw_project/turtle_draw_project.egg-info/requires.txt
+writing top-level names to ../../build/turtle_draw_project/turtle_draw_project.egg-info/top_level.txt
+writing manifest file '../../build/turtle_draw_project/turtle_draw_project.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_draw_project/turtle_draw_project.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_draw_project/turtle_draw_project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/inteli/pond-prog/build/turtle_draw_project/build
+creating /home/inteli/pond-prog/build/turtle_draw_project/build/lib
+creating /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project
+copying turtle_draw_project/turtle_drawer.py -> /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project
+copying turtle_draw_project/__init__.py -> /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project
+running install
+running install_lib
+creating /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project
+copying /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project/turtle_drawer.py -> /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project
+copying /home/inteli/pond-prog/build/turtle_draw_project/build/lib/turtle_draw_project/__init__.py -> /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project
+byte-compiling /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project/turtle_drawer.py to turtle_drawer.cpython-312.pyc
+byte-compiling /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/inteli/pond-prog/install/turtle_draw_project/share/ament_index
+creating /home/inteli/pond-prog/install/turtle_draw_project/share/ament_index/resource_index
+creating /home/inteli/pond-prog/install/turtle_draw_project/share/ament_index/resource_index/packages
+copying resource/turtle_draw_project -> /home/inteli/pond-prog/install/turtle_draw_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/inteli/pond-prog/install/turtle_draw_project/share/turtle_draw_project
+running install_egg_info
+Copying ../../build/turtle_draw_project/turtle_draw_project.egg-info to /home/inteli/pond-prog/install/turtle_draw_project/lib/python3.12/site-packages/turtle_draw_project-0.0.0-py3.12.egg-info
+running install_scripts
+Installing turtle_drawer script to /home/inteli/pond-prog/install/turtle_draw_project/lib/turtle_draw_project
+writing list of installed files to '/home/inteli/pond-prog/build/turtle_draw_project/install.log'
