@@ -87,3 +87,7 @@ A tartaruga começará a teleportar sequencialmente, traçando o contorno do cac
 * **Subamostragem:** Os pontos foram filtrados (1 a cada 3 pontos) para otimizar o tempo de execução do robô sem perder a fidelidade da imagem.
   
 * **Teleporte vs. Velocidade Linear (`cmd_vel`):** Optou-se por usar requisições síncronas de serviço (`TeleportAbsolute`) em vez da publicação de velocidades. Isso contorna o problema físico da caneta da tartaruga, permitindo "levantar a caneta" virtualmente durante transições e garantindo um contorno limpo, atendendo aos requisitos estéticos do projeto.
+
+# Vídeo de Demonstração
+
+[Vídeo](https://drive.google.com/drive/folders/1SO32WX08pBuZq3k-zW39gF4N-YbHro__?usp=sharing)  
